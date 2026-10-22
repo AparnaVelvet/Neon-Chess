@@ -1,0 +1,1 @@
+By using Neon Chess, you agree to play fair and follow Reddit's Content Policy. This app is provided "as is" without warranty of any kind. The game uses Redis to store match states and leaderboard scores. We reserve the right to reset leaderboards or update the app at any time.
